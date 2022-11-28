@@ -1,0 +1,32 @@
+.header {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 900px;
+    width: auto;
+}
+
+div.container1 {
+    text-align: center;   
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div.container2 {
+    text-align: center;
+}
+
+ol.myOL {
+    display: inline-block;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
