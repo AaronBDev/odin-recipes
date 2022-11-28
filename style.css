@@ -1,7 +1,9 @@
-.heading {
+.heading,
+div.container {
     text-align: center;
 }
 
-.list {
-    text-align: center;
+ul.myUL {
+    display: inline-block;
+    text-align: left;
 }
