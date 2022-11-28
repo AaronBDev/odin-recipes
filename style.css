@@ -3,7 +3,22 @@ div.container {
     text-align: center;
 }
 
+.heading {
+    display: block;
+    color: white;
+    background-color: rgb(70, 166, 230);
+    font-size: 20px;
+}
+
 ul.myUL {
     display: inline-block;
     text-align: left;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 800px;
 }
